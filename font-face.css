@@ -1,0 +1,9 @@
+@font-face{
+    font-family: " roboto"; /* se asigna la familia del tipo de letra desde donde se va aimportar con su nombre*/
+    src:url("https://fonts.google.com/specimen/Roboto"); /* aca se coloca el link del nuevo tipo de letra  */
+}
+
+p{
+    font-family: "Roboto", cursive; /* se indica el tipo de letra y adicional se pone cursiva*/
+    font-size: 150%;
+}

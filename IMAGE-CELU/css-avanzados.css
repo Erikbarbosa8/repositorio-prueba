@@ -1,0 +1,90 @@
+/* AGRUPACION SELECTORES AVANZADOS
+    Se aplica estilos a varios elementos
+    p, div { }
+    */
+article, header, h1, h2 {
+    background-color: black;
+    color: white;
+    border: 1px solid red;
+    text-align: center;
+}
+
+
+/* selectores desendientes  
+Es una forma de seleccionar ciertos elementos que estan dentro de
+otros elementos, Su sintaxis se basa en colocar los elementos uno 
+a continuación de otro, separado por un espacio:#page div { }
+*/
+div#celulares div  {
+    background-color: burlywood;
+    border: 1px solid yellowgreen;
+    width: 500px;
+    height: 700px;
+    vertical-align: text-bottom;
+    text-align: center; 
+
+    
+}
+div#celulares img{
+
+    width: 80%;
+    height: 550px;
+    margin-top: 5px;
+}
+
+/*  SELECTOR HIJO
+Se aplican estilos a hijos directos
+#page > div { } > 
+*/
+
+#container1 > div {
+    background-color: aqua;
+    border: 1px solid black;
+    width: 700px;
+    height: 900px;
+    text-align: center;
+    font-size: 60px;
+
+}
+
+/*  SELECTOR HERMANO ADYACENTE 
+    Se aplican estilos a elementos que siguen a otros.
+    div.articulo div + div { }
+*/
+ .boton button + button {
+     background-color: black;
+     color: white;
+     font-size: 20px;
+ }
+
+ /* SELECTOR HERMANO GENERAL
+    selecciona un elemento general sin necesidad que sea adyacente
+    div.articulo strong ~ strong 
+ */
+
+footer ~ footer {
+    width: auto;
+    height: auto;
+     background-color: tomato;
+     border: 1px solid black; 
+ }
+
+
+ /* SELECTOR UNIVERSAL  
+ Se aplican Estilos a todos los elementos.
+ #page * {}  
+ */
+
+ #menu * {
+     width: 200px;
+     height: 150px;
+     border: 1px solid black;
+     background-color: blueviolet;
+     font-size: 10px;
+     display: flex;
+     display: inline-block;
+     font-size: 50px;
+
+ }
+
+

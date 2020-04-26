@@ -1,0 +1,81 @@
+Ejecutar las actividades determinadas por las áreas de tecnología para dar el soporte necesario a los sistemas, con el objetivo de mantener la estabilidad operativa del negocio. Ejecutar las fases de la ingeniería de software (análisis, diseño, desarrollo), mediante la aplicación de procesos, modelos y estándares de calidad de la industria del software, para cubrir las necesidades y expectativas tecnológicas de las empresas del grupo BMV
+
+
+css como selectores: *{ backgroud:"green;"} afecta toda la pantalla dejandola verde 
+etiquetas: todo lo que quiero que tenga la web
+atributos: los atributos de esas etiquetas. ejemplo: citas, tiempo, fecha, lista etc.
+style: se coloca el style en cada atributo para modificar su css online
+Id: empeiza por un numeral (#) y el nombre de la etiqueta #cabecera .se les coloca en cada etiqueta como un codigo unico para poder modificarla en color tamaño etc. css online.
+class: empieza por un punto (.) y el nombre eje: ".cabecera" es una clase que me permite modificar todas aquellas etiquetas que tengan esta clase para cambiar su color tamaño etc.
+
+skich 
+wareframe: conseguir un warefrime , ubicaciones, filas , left , saltos etc
+herramienta :draw.io
+https://www.adobe.com/la/products/comp.html
+https://www.freepik.es/search?dates=any&format=search&page=1&query=mockups%20web&sort=popular
+mockup web: https://www.adobe.com/la/products/comp.html es la copia del proyecto que se va a jecutar 
+
+COLORES
+https://flatuicolors.com/
+https://www.color-hex.com/
+
+tarea: lo que ya se hizo con float se hacer con screenflex:
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://frontendmasters.com/courses/
+
+FLEX-BOX:https://jonmircha.com/flexbox
+
+TAMAÑOS PANTALLAS : https://norfipc.com/celulares/medidas-pantalla-resolucion-telefonos-celulares-tabletas.html
+
+https://norfipc.com/web/como-hacer-sitio-web-compatible-celulares-dispositivos-moviles.html
+
+Responsive web design no es más que servir a todo tipo de dispositivos, la misma página o sea el mismo contenido HTML, pero utilizar CSS3 para definir la forma en que se representa, de acuerdo al tamaño de su pantalla.
+Para eso se pueden emplear los comandos CSS: "@media handheld" y "@media screen".
+
+-COMANDOS : https://www.uv.es/jac/guia/estilo2.htm    CSS
+
+-link integrar git a Visual estudio code : https://www.youtube.com/watch?v=qdec2M4NwT0
+
+-REPOSITORIO: https://github.com/awakeelectronik/laCopa
+
+-SASS : https://sass-lang.com/guide
+
+-http://qnimate.com/creating-a-slider-using-html-and-css-only/
+
+-https://p5js.org/examples/3d-geometries.html
+
+https://materializecss.com/dropdown.html
+      20-04-
+-material boostrap :  https://getbootstrap.com/docs/4.4/getting-started/introduction/
+
+https://materializecss.com/
+
+    21-04
+-https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
+-https://www.w3schools.com/css/css_rwd_mediaqueries.asp  EJERCICIO EN CLASE
+-https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_images_responsive
+-https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_images_max        IMAGEN RECEPTIVA
+- consulta de medidas de dispositivos : https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+video clase: https://drive.google.com/file/d/1Z6lvNQC5Bgcs4jhwgFIdygKo8brQdu_4/view?usp=sharing
+
+		22-04 = animaciones css 
+-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+-https://prod.liveshare.vsengsaas.visualstudio.com/join?73817C6EC10760D2B51956AE1C01BBD7C68A
+-https://www.youtube.com/watch?v=pnYccz1Ha34
+  reglas de transformacion
+-https://www.mockplus.com/blog/post/css-animation-examples
+-https://css-tricks.com/the-shapes-of-css/
+-https://www.testufo.com/framerates#count=3&background=stars&pps=960&fullscreen=1
+video clase: https://drive.google.com/file/d/1nl_Pu6wYwmY0eA4ZAsew-W97HbIsunp3/view?usp=sharing
+ejericio animar 5 elementos de los que se envio en el enlace de formas de css: restcagulos  el enlace es el de trciks
+
+
+
+
+
+
+
+
+
+

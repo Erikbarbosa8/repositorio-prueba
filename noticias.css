@@ -1,0 +1,126 @@
+.agrupar{
+    text-align: center;
+    border: 1px solid #bdc3c7;
+}
+.cabecera,.botones,.seccion1,.seccion2,.columna,seccion3{
+display: block;
+border: 1px solid  black;
+}
+.cabecera{ 
+    color:#1e3799;
+    border: 1px solid #bdc3c7;
+    
+}
+h1{
+    font-size: 50px;
+}
+.botones{
+   border: 1px solid #bdc3c7;
+   padding: 5px;
+   
+}
+.bton{
+    width: 100px;
+    border: 0px solid white;
+    background-color: white;
+}
+.btonin{
+    width: 110px;
+    border: 0px solid white;
+    background-color: white;
+}
+.encabezado{
+    background-color: rgb(231, 20, 20);
+    text-align: left;
+    width: 500px;
+    color: white;   
+}
+.parrafo1{
+    text-align: left;
+    font-size: 50px;
+    font-family: helvetica;
+    
+
+}
+.seccion1{
+    text-align: left;
+    float: left;
+    padding: 40px;
+    border: 1px solid black;
+    width: 50%;
+    margin: 0, 0; 
+}
+.columna{
+    width: 40%;
+    float: right;
+    padding: 40px;
+    text-align: left;
+    border: 1px solid black;
+    height: 50%;
+
+
+}
+.columna blockquote {
+    border: 1px solid black;
+    font-size: 30px;
+    font-family: helvetica; 
+  
+}
+.columna p{
+    text-align: left;
+    color: rgb(230, 11, 11);
+}
+#img1{
+    width: 1000px; height: 500px;
+}
+.seccion2 {
+    clear: both;
+}
+
+#fecha2{
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+.noti2{
+    color: #1e3799;
+    font-size: 50px;
+    border: 1px solid #bdc3c7;
+}
+h2{
+    border: 1px solid rgb(255, 255, 255) ;
+}
+.contenedor2{
+    
+    display: flex;
+    margin: center;
+}
+.economia {
+    
+    width: 700px;
+    height: 500px;
+    
+    margin-left: 90px;
+    margin-right: 90px;
+   
+  
+}
+.vida{
+    
+    width: 700px;
+    height: 500px;
+    
+    text-align: center;
+    margin-right: 90px;
+    
+    
+
+}
+.justicia{
+    
+    width: 700px;
+    height: 500px;
+   
+    
+    
+}

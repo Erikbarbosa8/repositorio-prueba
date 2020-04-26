@@ -1,0 +1,81 @@
+
+/* a:link pseudoclase que cambia los estilos
+ de un link  */
+ a {
+     color: #333333;
+     text-decoration: none;
+     text-decoration: no;
+ }
+a:link {
+   color: red;  /* cambia el color del link de la lista*/
+}
+
+/* a:visited  cambia el color del link cuando ya lo a visitado*/
+a:visited{
+    color: gray; /* se avisa con otro color que ese link ya lo a visitado*/    
+}
+
+/*   cambiar el color del fondo cuando se coloque el mouse encima del link */
+a:hover {
+    background-color: hotpink;
+}
+
+
+/* cambiar borde del formulario */
+
+input:focus{
+    border-color: brown;
+    background-color: black;
+    color: white;
+}
+
+input:hover{
+    background-color: yellow;
+}
+
+nav ul:first-child{
+
+    background-color: violet;
+}
+
+ul li:first-child{
+    background-color: green;
+}
+
+ul li:last-child {
+    color: greenyellow;
+}
+
+ul li:nth-child(1){
+    color: yellow;
+}/* cambia un elemento que uno desee en este caso el primer de la lista */
+
+/* PSEUDO elementos  */
+
+#clases{
+    font-size: 50px;   
+}
+
+article h1::before{
+    content: url(estrella.png);
+}
+article h1::after{
+    content: url(estrella.png);
+}
+
+p::first-letter{
+    font-size: 60px;
+    color: red;
+    font-weight: bold;   
+}
+
+p::first-line{
+    color: blue;
+    text-decoration: underline;
+    margin-left: 30px;
+}
+
+
+
+
+
